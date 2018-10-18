@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShootIn</string>
+    <string name="loading">加载中</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="default_">default</string>
+    <string name="start">开始</string>
+    <string name="ok">确定</string>
+</resources>
